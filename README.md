@@ -1,4 +1,4 @@
-# ⚡ TokenWise
+## ⚡ TokenWise
 
 ### Code smarter. Spend less.
 
