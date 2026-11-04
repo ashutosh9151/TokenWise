@@ -126,7 +126,15 @@ This project directly addresses the **Cost-Optimized Coding Agent** challenge:
 
 ## 📸 Screenshots
 
-> *(Add screenshots of the dashboard and agent in action here after running the project)*
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Agent Generating Code
+![Chat](screenshots/chat1.png)
+![Chat](screenshots/chat2.png)
+
+### Workspace with Generated Files
+![Workspace](screenshots/workspace.png)
 
 ---
 
