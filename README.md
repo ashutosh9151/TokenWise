@@ -130,7 +130,7 @@ This project directly addresses the **Cost-Optimized Coding Agent** challenge:
 ![Dashboard](screenshots/dashboard.png)
 
 ### Agent Generating Code
-![Chat](screenshots/chat1.png)
+![Chat](screenshots/Chat1.png)
 ![Chat](screenshots/chat2.png)
 
 ### Workspace with Generated Files
